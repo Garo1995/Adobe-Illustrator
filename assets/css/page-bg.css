@@ -979,12 +979,15 @@
         margin-top: 2px;
     }
     .solidWorks .banner-photo {
-        max-width: 409px;
+        max-width: 471px;
         right: 0;
-        bottom: 19px;
-        margin-top: 0;
+        bottom: 0;
+        margin-top: 29px;
+        margin-bottom: 20px;
     }
-
+    .solidWorks .adobe-illust-title {
+        max-width: 333px;
+    }
     .ds-max .adobe-illust-title {
         max-width: 319px;
     }
