@@ -1,0 +1,1064 @@
+/*===================-inDesign-html-====================*/
+
+
+.inDesign .btn-login:hover, .inDesign .btn-login:active{
+    background: #CF395F;
+}
+.inDesign .btn-reg{
+    background: #E9426C;
+}
+.inDesign .btn-reg:hover,.inDesign .btn-reg:active{
+    background: #CF395F;
+}
+.inDesign .btn{
+    background: #E9426C;
+}
+.inDesign .btn:hover, .inDesign .btn:active{
+    background: #CF395F;
+}
+
+.inDesign .btn-black {
+    background: rgba(38, 38, 38, 1);
+}
+.inDesign .btn-black:hover {
+    background: #CF395F;
+
+}
+
+.inDesign .menu-scroll a:hover{
+    color: #E9426C;
+}
+.inDesign .banner-photo {
+    right: 80px;
+    bottom: 28px;
+}
+.inDesign  .create-perfect-box {
+    border: 1px solid rgba(98, 50, 62, 1);
+}
+.inDesign  .create-perfect-box:before {
+    background-image: url(../img/blus-proj-2.png);
+}
+.inDesign  .possibilit-box:hover .href-arrow-top {
+    background: #E9426C;
+}
+.inDesign  .open .open-accordion{
+    background: #E9426C;
+}
+.inDesign .open-accordion:hover{
+    background: #E9426C;
+}
+.inDesign .swiper-pagination-bullet-active {
+    background: #E9426C;
+
+}
+.inDesign .application-box:before {
+    background-image: url(../img/application-blur-2.png);
+}
+
+.inDesign  .finished-box .possibilit-ai img {
+    width: 30px;
+}
+.inDesign .possibilit-ai{
+    background: #49021F;
+}
+
+.inDesign .network-fon:before {
+    background-image: url(../img/network-fon-2.png);
+}
+.inDesign .network-fon {
+    background: #0E0E0E;
+    border: 1px solid #62323E;
+}
+.inDesign .footer-fon:after {
+    background-image: url(../img/footer-fon-2.png);
+}
+
+.inDesign .application-box {
+    border: 1px solid rgba(98, 50, 62, 1);
+
+}
+
+.inDesign .users-visual:before {
+
+    background-image: url(../img/users-visual-2.png);
+
+}
+.inDesign .vector-styles {
+    border: 1px solid rgba(98, 50, 62, 1);
+}
+
+.inDesign .vector-styles:after {
+    background-image: url(../img/vector-bl-2.png);
+}
+
+.inDesign .finished-box-grad:after {
+    background-image: url(../img/finished-blur-2.png);
+}
+
+
+
+
+
+
+/*===================-premiere-pro-html-====================*/
+
+
+
+
+
+.premiere-pro .btn-login:hover, .premiere-pro .btn-login:active{
+    background: rgba(106, 106, 242, 1);
+
+}
+.premiere-pro .btn-reg{
+    background: rgba(78, 78, 223, 1);
+
+}
+.premiere-pro .btn-reg:hover,.premiere-pro .btn-reg:active{
+    background: rgba(106, 106, 242, 1);
+
+}
+.premiere-pro .btn{
+    background: rgba(78, 78, 223, 1);
+
+}
+.premiere-pro .btn:hover, .premiere-pro .btn:active{
+    background: rgba(106, 106, 242, 1);
+
+}
+
+.premiere-pro .btn-black {
+    background: rgba(38, 38, 38, 1);
+}
+.premiere-pro .btn-black:hover {
+    background: rgba(106, 106, 242, 1);
+
+
+}
+
+.premiere-pro .menu-scroll a:hover{
+    color: rgba(78, 78, 223, 1);
+}
+.premiere-pro .banner-photo {
+    right: 40px;
+    bottom: 0;
+}
+.premiere-pro  .create-perfect-box {
+    border: 1px solid rgba(75, 75, 170, 1);
+}
+.premiere-pro  .create-perfect-box:before {
+    background-image: url(../img/blus-proj-3.png);
+}
+.premiere-pro  .possibilit-box:hover .href-arrow-top {
+    background: rgba(78, 78, 223, 1);
+}
+.premiere-pro  .open .open-accordion{
+    background: rgba(78, 78, 223, 1);
+}
+.premiere-pro .open-accordion:hover{
+    background: rgba(78, 78, 223, 1);
+}
+
+.premiere-pro .application-box:before {
+    background-image: url(../img/application-blur-3.png);
+}
+
+.premiere-pro  .finished-box .possibilit-ai img {
+    width: 30px;
+}
+.premiere-pro .possibilit-ai{
+    background: rgba(0, 0, 91, 1);
+
+}
+
+.premiere-pro .network-fon:before {
+    background-image: url(../img/network-fon-3.png);
+}
+.premiere-pro .network-fon {
+    background: #0E0E0E;
+    border: 1px solid rgba(75, 75, 170, 1);
+}
+.premiere-pro .footer-fon:after {
+    background-image: url(../img/footer-fon-3.png);
+}
+
+.premiere-pro .application-box {
+    border: 1px solid rgba(75, 75, 170, 1);
+
+}
+
+.premiere-pro .users-visual:before {
+
+    background-image: url(../img/users-visual-3.png);
+
+}
+.premiere-pro .vector-styles {
+    border: 1px solid rgba(75, 75, 170, 1);
+}
+
+.premiere-pro .vector-styles:after {
+    background-image: url(../img/vector-bl-3.png);
+}
+
+.premiere-pro .finished-box-grad:after {
+    background-image: url(../img/finished-blur-3.png);
+}
+
+.premiere-pro .banner-info {
+    max-width: 684px;
+}
+
+.premiere-pro .zipper-pull {
+    right: 60px;
+    max-width: 227px;
+}
+
+
+.premiere-pro .swiper-pagination-bullet-active {
+    background: rgba(75, 75, 170, 1);
+}
+
+
+.premiere-pro .network-photo {
+    margin-top: -47px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.after-effects .possibilit-online .possibilit-ai{
+    background: rgba(51, 0, 0, 1);
+
+}
+
+
+.after-effects .finished-box .possibilit-ai img{
+    width: auto;
+}
+
+.after-effects .network-photo {
+    margin-top: 0;
+}
+
+.after-effects .users-visual {
+    padding-bottom: 40px;
+}
+.after-effects .banner-photo {
+    bottom: 27px;
+}
+
+
+
+
+/*===================-lightroom-html-====================*/
+
+
+
+
+.lightroom .btn-login:hover, .lightroom .btn-login:active{
+    background: rgba(41, 143, 217, 1);
+
+}
+.lightroom .btn-reg{
+    background: rgba(49, 168, 255, 1);
+
+}
+.lightroom .btn-reg:hover,.lightroom .btn-reg:active{
+    background: rgba(41, 143, 217, 1);
+
+}
+.lightroom .btn{
+    background: rgba(49, 168, 255, 1);
+
+}
+.lightroom .btn:hover, .lightroom .btn:active{
+    background: rgba(41, 143, 217, 1);
+
+}
+
+.lightroom .btn-black {
+    background: rgba(38, 38, 38, 1);
+}
+.lightroom .btn-black:hover {
+    background: rgba(41, 143, 217, 1);
+}
+
+.lightroom .menu-scroll a:hover{
+    color: rgba(49, 168, 255, 1);
+}
+.lightroom .banner-photo {
+    right: 80px;
+    bottom: 28px;
+}
+.lightroom  .create-perfect-box {
+    border: 1px solid rgba(24, 59, 85, 1);
+}
+.lightroom  .create-perfect-box:before {
+    background-image: url(../img/blus-proj-4.png);
+}
+.lightroom  .possibilit-box:hover .href-arrow-top {
+    background: rgba(49, 168, 255, 1);
+}
+.lightroom  .open .open-accordion{
+    background: rgba(49, 168, 255, 1);
+}
+.lightroom .open-accordion:hover{
+    background: rgba(49, 168, 255, 1);
+}
+.lightroom .swiper-pagination-bullet-active {
+    background: rgba(49, 168, 255, 1);
+}
+.lightroom .application-box:before {
+    background-image: url(../img/application-blur-4.png);
+}
+
+.lightroom .possibilit-ai{
+    background: rgba(0, 30, 54, 1);
+}
+
+.lightroom .network-fon:before {
+    background-image: url(../img/network-fon-4.png);
+}
+.lightroom .network-fon {
+    background: #0E0E0E;
+    border: 1px solid rgba(24, 59, 85, 1);
+}
+.lightroom .footer-fon:after {
+    background-image: url(../img/footer-fon-4.png);
+}
+
+.lightroom .application-box {
+    border: 1px solid rgba(24, 59, 85, 1);
+
+}
+
+.lightroom .users-visual:before {
+
+    background-image: url(../img/users-visual-4.png);
+
+}
+.lightroom .vector-styles {
+    border: 1px solid rgba(24, 59, 85, 1);
+}
+
+.lightroom .vector-styles:after {
+    background-image: url(../img/vector-bl-4.png);
+}
+
+.lightroom .finished-box-grad:after {
+    background-image: url(../img/finished-blur-4.png);
+}
+
+
+.lr-online{
+    width: 106px;
+    height: 106px;
+}
+
+
+
+
+.lightroom .network-photo {
+    max-width: 700px;
+    margin-left: -72px;
+}
+
+
+
+
+
+
+
+.finished-lr{
+    width: 70px;
+}
+
+
+
+
+
+
+/*===================-solidWorks-html-====================*/
+
+
+
+
+.solidWorks .banner-photo {
+    max-width: 654px;
+    right: 68px;
+    bottom: 120px;
+}
+
+
+
+
+
+.solidWorks .adobe-illust-title {
+    max-width: 480px;
+    width: 100%;
+}
+.solidWorks .possibilit-ai{
+    background: rgba(26, 26, 26, 1);
+
+}
+
+.solidWorks .network-photo {
+    max-width: 579px;
+    align-items: center;
+    margin-left: -45px;
+}
+
+
+
+
+
+/*===================-auto-cad-html-====================*/
+
+.auto-cad .banner-photo {
+    right: 64px;
+    bottom: 98px;
+}
+
+.auto-cad .adobe-illust-title {
+    max-width: 450px;
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+.davinci-res .banner-photo {
+    right: 217px;
+    bottom: 56px;
+    max-width: 339px;
+}
+
+
+
+
+
+
+
+
+
+/*===================-revit-page-html-====================*/
+
+
+
+
+
+
+
+
+.revit-page .btn-login:hover, .revit-page .btn-login:active{
+    background: rgba(73, 136, 248, 1);
+
+
+}
+.revit-page .btn-reg{
+    background: rgba(24, 107, 255, 1);
+
+
+}
+.revit-page .btn-reg:hover,.revit-page .btn-reg:active{
+    background: rgba(73, 136, 248, 1);
+
+
+}
+.revit-page .btn{
+    background: rgba(24, 107, 255, 1);
+
+
+}
+.revit-page .btn:hover, .revit-page .btn:active{
+    background: rgba(73, 136, 248, 1);
+
+
+}
+
+.revit-page .btn-black {
+    background: rgba(38, 38, 38, 1);
+}
+.revit-page .btn-black:hover {
+    background: rgba(73, 136, 248, 1);
+
+
+}
+
+.revit-page .menu-scroll a:hover{
+    color: rgba(24, 107, 255, 1);
+}
+
+.revit-page  .create-perfect-box {
+    border: 1px solid rgba(12, 61, 145, 1);
+}
+
+.revit-page  .possibilit-box:hover .href-arrow-top {
+    background: rgba(24, 107, 255, 1);
+}
+.revit-page  .open .open-accordion{
+    background: rgba(24, 107, 255, 1);
+}
+.revit-page .open-accordion:hover{
+    background: rgba(24, 107, 255, 1);
+}
+.revit-page .swiper-pagination-bullet-active {
+    background: rgba(24, 107, 255, 1);
+}
+
+
+
+.revit-page .network-fon {
+    background: #0E0E0E;
+    border: 1px solid  rgba(12, 61, 145, 1);
+}
+
+.revit-page .application-box {
+    border: 1px solid  rgba(12, 61, 145, 1);
+
+}
+
+.revit-page .vector-styles {
+    border: 1px solid  rgba(12, 61, 145, 1);
+}
+
+
+
+.revit-page .adobe-illust-title{
+    max-width: 300px;
+    width: 100%;
+}
+.revit-page .banner-photo {
+    right: 71px;
+    bottom: 51px;
+}
+
+
+.revit-page .zipper-pull {
+    right: 38px;
+    max-width: 329px;
+}
+
+
+
+
+
+
+.revit-page .users-visual-photo {
+    margin-top: -29px;
+}
+
+
+.revit-page .network-info {
+    max-width: 640px;
+}
+
+
+
+
+
+
+/*===================-revit-page-html-====================*/
+
+
+
+
+
+
+
+
+
+
+.corelDraw .banner-photo {
+    max-width: 587px;
+    right: 68px;
+    bottom: 37px;
+}
+
+.corelDraw  .zipper-pull {
+    right: 60px;
+}
+
+
+
+
+.corelDraw .users-visual-photo {
+    max-width: 510px;
+    right: 42px;
+    bottom: 11px;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*===================-ds-max-html-====================*/
+
+
+.ds-max .btn-login:hover, .ds-max .btn-login:active{
+    background: rgba(127, 197, 222, 1);
+
+}
+.ds-max .btn-reg{
+    background: rgba(57, 165, 204, 1);
+
+}
+.ds-max .btn-reg:hover,.ds-max .btn-reg:active{
+    background: rgba(127, 197, 222, 1);
+
+}
+.ds-max .btn{
+    background: rgba(57, 165, 204, 1);
+
+}
+.ds-max .btn:hover, .ds-max .btn:active{
+    background: rgba(127, 197, 222, 1);
+
+}
+
+.ds-max .btn-black {
+    background: rgba(38, 38, 38, 1);
+}
+.ds-max .btn-black:hover {
+    background: rgba(127, 197, 222, 1);
+
+
+}
+
+.ds-max .menu-scroll a:hover{
+    color: rgba(57, 165, 204, 1);
+}
+
+.ds-max  .create-perfect-box {
+    border: 1px solid rgba(54, 104, 127, 1);
+}
+.ds-max  .create-perfect-box:before {
+    background-image: url(../img/blus-proj-5.png);
+}
+.ds-max  .possibilit-box:hover .href-arrow-top {
+    background: rgba(127, 197, 222, 1);
+
+}
+.ds-max  .open .open-accordion{
+    background: rgba(127, 197, 222, 1);
+
+}
+.ds-max .open-accordion:hover{
+    background: rgba(127, 197, 222, 1);
+
+}
+.ds-max .swiper-pagination-bullet-active {
+    background: rgba(127, 197, 222, 1);
+
+}
+.ds-max .application-box:before {
+    background-image: url(../img/application-blur-5.png);
+}
+
+.ds-max  .finished-box .possibilit-ai img {
+    width: 30px;
+}
+.ds-max .network-fon:before {
+    background-image: url(../img/network-fon-5.png);
+}
+.ds-max .network-fon {
+    background: #0E0E0E;
+    border: 1px solid rgba(54, 104, 127, 1);
+}
+.ds-max .footer-fon:after {
+    background-image: url(../img/footer-fon-5.png);
+}
+
+.ds-max .application-box {
+    border: 1px solid rgba(54, 104, 127, 1);
+
+}
+
+.ds-max .users-visual:before {
+
+    background-image: url(../img/users-visual-5.png);
+
+}
+.ds-max .vector-styles {
+    border: 1px solid rgba(54, 104, 127, 1);
+}
+
+.ds-max .vector-styles:after {
+    background-image: url(../img/vector-bl-5.png);
+}
+
+.ds-max .finished-box-grad:after {
+    background-image: url(../img/finished-blur-5.png);
+}
+
+
+
+
+.ds-max .banner-photo {
+    max-width: 686px;
+    right: -9px;
+    bottom: 16px;
+}
+
+
+.ds-max .adobe-illust-title{
+    max-width: 364px;
+    width: 100%;
+}
+
+
+
+.ds-max .users-visual-photo {
+    max-width: 475px;
+    margin-bottom: 26px;
+    margin-right: 36px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*===================-archiCAD-html-====================*/
+
+
+
+.archiCAD .adobe-illust-title{
+    max-width: 430px;
+    width: 100%;
+}
+
+
+
+.archiCAD .btn-login:hover, .archiCAD .btn-login:active{
+    background: rgba(53, 80, 154, 1);
+
+
+}
+.archiCAD .btn-reg{
+    background: rgba(109, 142, 235, 1);
+
+
+}
+.archiCAD .btn-reg:hover,.archiCAD .btn-reg:active{
+    background: rgba(53, 80, 154, 1);
+
+
+}
+.archiCAD .btn{
+    background: rgba(109, 142, 235, 1);
+
+
+}
+.archiCAD .btn:hover, .archiCAD .btn:active{
+    background: rgba(53, 80, 154, 1);
+
+
+}
+
+.archiCAD .btn-black {
+    background: rgba(38, 38, 38, 1);
+}
+.archiCAD .btn-black:hover {
+    background: rgba(53, 80, 154, 1);
+
+
+
+}
+
+.archiCAD .menu-scroll a:hover{
+    color: rgba(57, 165, 204, 1);
+}
+
+.archiCAD  .create-perfect-box {
+    border: 1px solid rgba(32, 53, 113, 1);
+}
+.archiCAD  .create-perfect-box:before {
+    background-image: url(../img/blus-proj-6.png);
+}
+.archiCAD  .possibilit-box:hover .href-arrow-top {
+    background: rgba(127, 197, 222, 1);
+
+}
+.archiCAD  .open .open-accordion{
+    background: rgba(127, 197, 222, 1);
+}
+.archiCAD .open-accordion:hover{
+    background: rgba(127, 197, 222, 1);
+
+
+}
+.archiCAD .swiper-pagination-bullet-active {
+    background: rgba(127, 197, 222, 1);
+
+}
+.archiCAD .application-box:before {
+    background-image: url(../img/application-blur-6.png);
+}
+
+.archiCAD .network-fon:before {
+    background-image: url(../img/network-fon-6.png);
+}
+.archiCAD .network-fon {
+    background: #0E0E0E;
+    border: 1px solid rgba(32, 53, 113, 1);
+}
+.archiCAD .footer-fon:after {
+    background-image: url(../img/footer-fon-6.png);
+}
+
+.archiCAD .application-box {
+    border: 1px solid rgba(32, 53, 113, 1);
+
+}
+
+.archiCAD .users-visual:before {
+
+    background-image: url(../img/users-visual-6.png);
+
+}
+.archiCAD .vector-styles {
+    border: 1px solid rgba(32, 53, 113, 1);
+}
+
+.archiCAD .vector-styles:after {
+    background-image: url(../img/vector-bl-6.png);
+}
+
+.archiCAD .finished-box-grad:after {
+    background-image: url(../img/finished-blur-6.png);
+}
+.archiCAD .banner-photo {
+    max-width: 676px;
+    right: 50px;
+    bottom: 33px;
+}
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 1299px){
+    .solidWorks .banner-photo {
+        max-width: 553px;
+        right: 17px;
+        bottom: 120px;
+    }
+    .solidWorks .network-photo {
+        margin-left: -19px;
+    }
+    .archiCAD .banner-photo {
+        max-width: 568px;
+        right: 13px;
+        bottom: 68px;
+    }
+}
+@media (max-width: 1199px){
+    .auto-cad .banner-photo {
+        right: 19px;
+        bottom: 120px;
+        max-width: 446px;
+    }
+    .auto-cad .adobe-illust-title {
+        max-width: 310px;
+    }
+
+    .corelDraw .banner-photo {
+        max-width: 456px;
+        right: -7px;
+        bottom: 25px;
+    }
+    .corelDraw .users-visual-photo {
+        max-width: 362px;
+        right: 0;
+        bottom: 15px;
+    }
+
+    .ds-max .banner-photo {
+        max-width: 469px;
+        right: 0;
+        bottom: 62px;
+    }
+    .ds-max .network-fon {
+        padding: 34px 34px;
+    }
+    .ds-max .network-photo {
+        max-width: 376px;
+        padding: 0 45px;
+    }
+    .archiCAD .banner-photo {
+        max-width: 479px;
+        right: 0px;
+        bottom: 63px;
+    }
+
+    .archiCAD .adobe-illust-title {
+        max-width: 328px;
+    }
+
+}
+@media (max-width: 1020px){
+    .premiere-pro .network-photo {
+        margin-top: -47px;
+    }
+    .solidWorks .banner-photo {
+        max-width: 516px;
+        right: 0;
+        bottom: 19px;
+    }
+    .solidWorks .network-photo {
+        margin-left: 0;
+        margin-bottom: 24px;
+    }
+    .auto-cad .banner-photo {
+        right: 0;
+        bottom: 11px;
+        max-width: 405px;
+    }
+    .revit-page .banner-photo {
+        right: 0;
+        bottom: 20px;
+        max-width: 431px;
+    }
+    .revit-page .users-visual-photo {
+        margin-top: 0;
+        max-width: 394px;
+    }
+    .premiere-pro .network-photo {
+        margin-top: 0;
+    }
+   .revit-page .menu-name-mob {
+        margin-top: 2px;
+    }
+    .solidWorks .banner-photo {
+        max-width: 409px;
+        right: 0;
+        bottom: 19px;
+        margin-top: 0;
+    }
+
+    .ds-max .adobe-illust-title {
+        max-width: 319px;
+    }
+    .ds-max .banner-photo {
+        max-width: 449px;
+        right: 0;
+        bottom: 0;
+    }
+    .ds-max .network-photo {
+
+        margin: 0 auto 90px;
+    }
+    .archiCAD .banner-photo {
+        max-width: 480px;
+        right: 0;
+        bottom: 0;
+        margin: 14px auto 20px;
+    }
+}
+
+
+
+@media (max-width: 575px){
+    .inDesign .banner-photo {
+        right: 0;
+        bottom: 15px;
+        margin-right: 0;
+    }
+    .after-effects .banner-photo {
+        bottom: 0;
+    }
+
+    .premiere-pro .banner-photo {
+        right: 0;
+        bottom: 0;
+    }
+
+    .premiere-pro  .finished-box .possibilit-ai img {
+        width: 21px;
+    }
+    .finished-lr{
+        width: 50px;
+    }
+    .lr-online{
+        width: 55px;
+        height: 55px;
+    }
+    .lightroom .network-photo {
+        max-width: 689px;
+        margin-left: -19px;
+        margin-bottom: 20px;
+    }
+    .lightroom .banner-photo {
+        right: 0;
+        bottom: 0;
+        margin-right: 0;
+    }
+    .auto-cad .banner-photo {
+        bottom: 18px;
+    }
+    .revit-page .menu-name-mob {
+        margin-top: 0;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

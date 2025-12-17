@@ -222,7 +222,7 @@ p b{
 }
 .create-perfect-title h3{
     color: #ffffff;
-    max-width: 430px;
+    max-width: 482px;
     width: 100%;
 }
 
@@ -271,7 +271,7 @@ p b{
     width: 100%;
 }
 .saving-budget-title h3{
-    max-width: 320px;
+    max-width: 364px;
     width: 100%;
 }
 .saving-budget-title p{
@@ -304,7 +304,7 @@ p b{
 }
 
 .change-col-name{
-    gap: 25px;
+    gap: 22px;
 }
 .change-col-name img{
     width: 30px;
@@ -333,7 +333,7 @@ p b{
     border: 1px solid rgba(96, 59, 45, 1);
     width: calc(33.333333% - 6px);
     border-radius: 50px;
-    padding: 50px;
+    padding: 50px 15px 50px 50px;
     position: relative;
     overflow: hidden;
 }
@@ -399,7 +399,7 @@ p b{
     background: rgba(51, 0, 0, 1);
     width: 106px;
     height: 106px;
-    border-radius: 30px;
+    border-radius: 20px;
 
 }
 .possibilit-online .ai-online{
@@ -514,6 +514,7 @@ p b{
     position: relative;
     padding: 29px 40px 0 49px;
     margin-top: 40px;
+    min-height: 290px;
 }
 
 .users-visual:before{
@@ -571,14 +572,14 @@ p b{
 .users-visual-photo img{
     border-radius: 0 0 10px 0;
 }
-.users-visual:after{
+.users-visual:after {
     content: "";
     position: absolute;
     border-radius: 15px;
     background: rgba(14, 14, 14, 1);
     width: 50px;
     height: 50px;
-    right: 35px;
+    right: 66px;
     transform: rotate(45deg);
     bottom: -15px;
 }
@@ -1067,7 +1068,7 @@ footer{
         font-size: 52px;
     }
     .network-fon {
-        padding: 55px 50px;
+        padding: 55px 34px;
     }
     .network-info {
         max-width: 606px;
@@ -1080,7 +1081,7 @@ footer{
         padding-left: 40px;
     }
     .adobe-illust-title{
-        max-width: 560px;
+        max-width: 590px;
         width: 100%;
     }
     .regular-users {
@@ -1126,6 +1127,20 @@ footer{
         max-width: 568px;
         height: 438px;
     }
+    .banner-info {
+        padding: 57px 0 52px;
+    }
+
+
+    .regular-users {
+        margin-top: 64px;
+    }
+
+
+
+
+
+
 }
 @media (max-width: 1199px){
     h1 {
@@ -1174,7 +1189,7 @@ footer{
         font-size: 26px;
     }
     .create-perfect-title h3 {
-        max-width: 361px;
+        max-width: 371px;
     }
     .saving-budget {
         padding: 50px 27px 30px 26px;
@@ -1874,5 +1889,8 @@ footer{
     .application-info ul li {
         font-size: 13px;
         line-height: 120%;
+    }
+    .network-photo{
+        margin-bottom: 20px;
     }
 }
